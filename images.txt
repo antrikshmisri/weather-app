@@ -1,0 +1,4 @@
+rain :- https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+snow:- https://unsplash.com/photos/hPh2waTRiwE <= 1deg
+summer:-https://unsplash.com/photos/n_GGaQHqT4Q >=25deg
+pleasant:-https://unsplash.com/photos/ukuWIb-8_Y4 === 20deg
